@@ -1,8 +1,13 @@
-# React + Vite
+### Coin Navigator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### A simple web app to track Crypto Currencies on the go
 
-Currently, two official plugins are available:
+React + Vite + Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The app is on initial phase
+
+Sample Video -
+
+https://github.com/sd535682/CoinNavigator/assets/61840607/c1eed70d-caf7-4990-a498-aa0e4bf4d21a
+
+[ Data refreshes over every 5 seconds ]
