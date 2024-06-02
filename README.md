@@ -9,7 +9,7 @@ The app is on initial phase
 
 Sample Video -
 
-https://github.com/sd535682/CoinNavigator/assets/61840607/c1eed70d-caf7-4990-a498-aa0e4bf4d21a
+https://github.com/sd535682/CoinNavigator/assets/61840607/0f70fd86-54bc-4761-801d-518bc1209512
 
 [ Data refreshes automatically after every 5 seconds ]
 
